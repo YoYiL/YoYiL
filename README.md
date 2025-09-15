@@ -1,13 +1,7 @@
 <!-- Banner -->
-
 <div align="center">
-  <img src="banner.png" alt="Smart Contract Auditor | Web3 Security" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=I%20Am%20YoYiL&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web3%20Security%20Junior%20%7C%20Building%20Secure%20DeFi%20Systems&descAlignY=55&descAlign=50" alt="Smart Contract Auditor Banner" width="100%" />
 </div>
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+YoYiL+%F0%9F%91%8B;Smart+Contract+Auditor;Web3+Security+Expert" alt="Typing SVG" />
-</h1>
 
 
 <div align="center">
@@ -145,8 +139,6 @@
 
 ---
 
-
----
 
 ## 📂 My Contributions
 
