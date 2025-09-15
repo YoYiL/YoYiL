@@ -131,19 +131,20 @@
 </div>
 
 
-<details>
-<summary><b>🏆 GitHub Trophies & Activity Graph</b></summary>
-<br/>
+---
+
+## 🏆 GitHub Trophies & Activity Graph
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YoYiL&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoYiL&theme=tokyo-night&hide_border=true" />
 </div>
 
-</details>
+---
+
 
 ---
 
