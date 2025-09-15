@@ -160,8 +160,5 @@
 5. ❗ Opened issue [#12](https://github.com/Cyfrin/foundry-dao-cu/issues/12) in [Cyfrin/foundry-dao-cu](https://github.com/Cyfrin/foundry-dao-cu)
 <!--END_SECTION:activity-->
 
-### 📊 This Week I Spent My Time On
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
