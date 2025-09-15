@@ -1,0 +1,26 @@
+name: Update README with latest contributions
+
+on:
+  schedule:
+    # （BeiJing Time 08:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Update README with recent activity
+      uses: jamesgeorge007/github-activity-readme@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        COMMIT_MSG: 'Update README with recent activity'
+        MAX_LINES: 5
+
