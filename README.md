@@ -1,18 +1,24 @@
 <!-- Banner -->
+
 <div align="center">
   <img src="banner.png" alt="Smart Contract Auditor | Web3 Security" width="100%" />
 </div>
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+YoYiL+%F0%9F%91%8B;Smart+Contract+Auditor;Web3+Security+Expert" alt="Typing SVG" />
 </h1>
+
 
 <div align="center">
   <h3>🔐 Smart Contract Auditor · 💻 Solidity Engineer · 🔍 Security Researcher</h3>
   <p><em>Building and validating secure decentralized systems</em></p>
 </div>
 
+
 <div align="center">
+
+
   [![Email](https://img.shields.io/badge/📧_Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liuhongzhi366@gmail.com)
   [![GitHub](https://img.shields.io/badge/📂_GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoYiL?tab=repositories)
   [![Profile Views](https://komarev.com/ghpvc/?username=YoYiL&color=blueviolet&style=for-the-badge)](https://github.com/YoYiL)
@@ -68,6 +74,7 @@
   </table>
 </div>
 
+
 ---
 
 ## 🔐 Security Focus Areas
@@ -89,11 +96,13 @@
   </table>
 </div>
 
+
 ---
 
 ## 🧰 Tech Stack
 
 <div align="center">
+
 
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -116,9 +125,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoYiL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=javascript,html,css"/>
 </div>
 
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoYiL&theme=tokyonight&hide_border=true" />
 </div>
+
 
 <details>
 <summary><b>🏆 GitHub Trophies & Activity Graph</b></summary>
@@ -127,9 +138,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YoYiL&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoYiL&theme=tokyo-night&hide_border=true" />
 </div>
+
 </details>
 
 ---
@@ -137,10 +150,12 @@
 ## 📂 My Contributions
 
 ### 🔥 Recent Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ### 📊 This Week I Spent My Time On
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
