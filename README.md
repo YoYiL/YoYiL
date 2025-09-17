@@ -115,12 +115,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoYiL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoYiL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=javascript,html,css&cache_seconds=86400"/>
+  <!-- Main Service + 24 Hours Cache -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoYiL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="YoYiL's GitHub Stats" onerror="this.src='https://github-readme-stats-sigma-five.vercel.app/api?username=YoYiL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400'"/>
+  
+  <!-- Backup Service + 24 Hours Cache -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YoYiL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=javascript,html,css&cache_seconds=86400" alt="YoYiL's Top Languages" onerror="this.src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoYiL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=javascript,html,css&cache_seconds=86400'"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoYiL&theme=tokyonight&hide_border=true" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoYiL&theme=tokyonight&hide_border=true" alt="YoYiL's GitHub Streak" />
 </div>
 
 
