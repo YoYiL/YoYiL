@@ -1,12 +1,8 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=I%20Am%20YoYiL&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web3%20Security%20Junior%20%7C%20Building%20Secure%20DeFi%20Systems&descAlignY=55&descAlign=50" alt="Smart Contract Auditor Banner" width="100%" />
-</div>
-
 
 <div align="center">
-  <h3>🔐 Smart Contract Auditor · 💻 Solidity Engineer · 🔍 Security Researcher</h3>
+  <h3>🔐 Smart Contract Auditor · 💻 Solo iOS Dev · 🔍 Security Researcher</h3>
   <p><em>Building and validating secure decentralized systems</em></p>
+  <p><em>OPC</em></p>
 </div>
 
 
